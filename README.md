@@ -1,5 +1,4 @@
 # Car-Behvior-Cloning
-<h1>Car</h1>
 <h3>Data Collection</h3>
 <p>I drove around 25k frames including 1st & 2nd map in the simulator. Most of the frames are from center lane driving and 20% are from side lane recovery. I used PS4 joystick as it is only the appropriate way for proper driving. My target was to train this network only for 1st map as required for this project. I read in a blog post that at least minimum 40k images are required to train a perfect model. I used 25k to save time for training the model, and to avoid memory overflow. And it works.
 Following are the details of my dataset.
